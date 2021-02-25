@@ -5,7 +5,7 @@
  *   var x: Int = _x
  * }
  */
-object b {
+/*object b {
   def getDecimalValue(head: ListNode): Int = {
     var sz = 0
     var node = head
@@ -24,4 +24,4 @@ object b {
 
     ans
   }
-}
+}*/
